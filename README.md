@@ -1,4 +1,6 @@
 # hnn_icp-1
+Code Video : https://drive.google.com/file/d/1Jn5O4N8L4YFHd90lemlS4s8q7hY5Qvft/view?usp=sharing
+
 1.1 Deletion of charcters and reversing string
 
 The user is prompted to enter a string (m).
